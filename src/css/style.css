@@ -1,0 +1,82 @@
+html,body{
+    margin:0;
+    padding:0;
+    background-color: whitesmoke;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#header{
+   background-color:#526f92;
+   color:white;
+   padding:3px;
+   box-shadow:0px 0px 6px 1px black;
+}
+
+
+#al{
+    font-weight: bold;
+    font-size:30px;
+}
+
+#Login{
+    width:80px;
+    padding:2px;
+}
+
+.log_span{
+    font-weight: bold;
+}
+
+#submit_button{
+    background-color:lightgrey;
+    color:#656464;
+    padding:1px;
+    border:1px solid lightgrey;
+    cursor:pointer;
+    font-weight: bold;
+    width:100px;
+    text-align: center;
+    font-size:14px;
+}
+
+
+
+#in_header{
+	width:1200px;
+	margin:0 auto;
+}
+
+#login_form{
+    margin:0 auto;
+    
+}
+
+#admin{
+background-color: rgb(243, 6, 6);
+
+}
+
+#logo{  
+  padding: 0px 140px 0px 0px;
+}
+
+
+/*
+#sp1{ color:orange; }
+
+#sp{ color:orange; }
+*/
+
+#logo span{
+	font-weight:bold;
+	font-size:25px;
+	text-shadow:0px 4px 0px #5daac7;
+}
+
+#response{ color:red; }
+
+.dropdown {
+    float: right;
+    overflow: hidden;
+  }
+
